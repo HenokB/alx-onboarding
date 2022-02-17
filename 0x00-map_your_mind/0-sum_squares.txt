@@ -1,0 +1,9 @@
+1.BEGIN
+2.NUMBER s1, s2, sum
+3.OUTPUT("Input number1:")
+4.INPUT s1
+5.OUTPUT("Input number2:")
+6.INPUT s2
+7.sum=s1*s1+s2*s2
+8.OUTPUT sum
+9.END
